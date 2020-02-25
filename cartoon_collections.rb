@@ -25,6 +25,7 @@ def find_the_cheese(array)# code an argument here ["gouda","trash","lamb"]
       else
         cheese_counter += 1
       end
+      cheese_counter += 1
     end
     array_counter += 1
   end
